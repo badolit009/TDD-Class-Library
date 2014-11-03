@@ -1,0 +1,9 @@
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\obj\Debug\EmployeeUnitTest.test.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\bin\Debug\EmployeeUnitTest.test.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\bin\Debug\EmployeeUnitTest.test.pdb
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\bin\Debug\EmployeeSalaryLib.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\bin\Debug\nunit.framework.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\bin\Debug\EmployeeSalaryLib.pdb
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\bin\Debug\nunit.framework.xml
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\obj\Debug\EmployeeUnitTest.test.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeUnitTest.test\obj\Debug\EmployeeUnitTest.test.pdb

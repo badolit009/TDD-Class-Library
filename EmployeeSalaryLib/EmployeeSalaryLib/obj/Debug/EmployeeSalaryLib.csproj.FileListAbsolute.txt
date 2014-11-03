@@ -1,0 +1,5 @@
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeSalaryLib\bin\Debug\EmployeeSalaryLib.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeSalaryLib\bin\Debug\EmployeeSalaryLib.pdb
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\Unit Test\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.pdb
